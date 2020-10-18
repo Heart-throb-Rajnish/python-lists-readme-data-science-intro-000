@@ -5,7 +5,7 @@ So far, we have worked with individual pieces of data like the string `'hello'`.
 
 ### Creating a list 
 
-A list is our first form of a collection.  A collection is just a way of grouping data together, and lists certainly accomplish this.  For example, let's consider the top cities for travel according to the magazine Travel and Leisure. Here is how we are used to seeing a list of travel locations in a document or on a website.
+A list is our first form of a collection.  A collection is  a way of grouping data together, and lists certainly accomplish this.  For example, let's consider the top cities for travel according to the magazine Travel and Leisure. Here is how we are used to seeing a list of travel locations in a document or on a website.
 
 #### Travel Locations
 1. Solta
